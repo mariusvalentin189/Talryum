@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sword
+  - Enemy
+  - BossEnemy
+  - ItemDescription
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Collectable
+  - Wall
+  - Enemy
+  - Player
+  - Platform
+  - WoodObjects
+  - Grass
+  - Stone
+  - Ground
+  - BossStopPoint
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3195816179
+    locked: 0
+  - name: Outside
+    uniqueID: 2726626417
+    locked: 0
+  - name: Level
+    uniqueID: 1420773129
+    locked: 0
+  - name: LevelProps
+    uniqueID: 3941294455
+    locked: 0
+  - name: Characters
+    uniqueID: 3687894295
+    locked: 0
+  - name: Player
+    uniqueID: 1095781801
+    locked: 0
+  - name: Foreground
+    uniqueID: 2155384939
+    locked: 0
+  - name: UI
+    uniqueID: 2387856903
+    locked: 0

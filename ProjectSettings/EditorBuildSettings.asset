@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 55ab6ffa7ef9de745b2bec02df80d994
+  - enabled: 1
+    path: Assets/Scenes/00_Forest00_StartingArea.unity
+    guid: 1153806c86eefa34f956d33003bfb315
+  - enabled: 1
+    path: Assets/Scenes/01_Forest01.unity
+    guid: fcaf3754640723447b574757738d43d4
+  - enabled: 1
+    path: Assets/Scenes/02_Forest02.unity
+    guid: 89938e325fcf2af42befbcd1500be6c1
+  - enabled: 1
+    path: Assets/Scenes/03_Cave01.unity
+    guid: d8729b3e340c11242b70c82016455213
+  - enabled: 1
+    path: Assets/Scenes/04_Forest03.unity
+    guid: 5c97b63bffb580d4eaadbb1ce2c948fe
+  - enabled: 1
+    path: Assets/Scenes/05_Cave02.unity
+    guid: 3af3ff7110720f244a75b60bbbc69e83
+  - enabled: 1
+    path: Assets/Scenes/06_Forest04.unity
+    guid: 1ad25c06bd3ad2246a7404d16b951236
+  - enabled: 1
+    path: Assets/Scenes/07_Forest05_Boss01.unity
+    guid: 9213bd80defd9bd48be8ac67f04c8877
+  - enabled: 1
+    path: Assets/Scenes/08_Castle01.unity
+    guid: 008aed26a256fa84484591aaf5079545
+  - enabled: 1
+    path: Assets/Scenes/09_Castle02.unity
+    guid: 99587209b1750964b83cf60bfbe6f847
+  - enabled: 1
+    path: Assets/Scenes/10_Castle03.unity
+    guid: 18c0b6c032916144e8f7921e9ea64a5a
+  - enabled: 1
+    path: Assets/Scenes/11_Castle04_Key.unity
+    guid: 6855587a9b9ba2546a02cf8a20ff64d4
+  - enabled: 1
+    path: Assets/Scenes/12_Castle05_Prison.unity
+    guid: 6b4f32225a299a84db963f55cd4ee90f
+  - enabled: 1
+    path: Assets/Scenes/13_Castle06_Throne.unity
+    guid: 1f15b843d37121041a8fd0562c95e3df
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: d03197a7204ca7f4f8f65aaeba0a2346
+  m_configObjects: {}
